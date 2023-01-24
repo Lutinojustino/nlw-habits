@@ -1,4 +1,5 @@
-# Projeto Feito na nlw
+# Projeto Feito na nlw na trilha explorer
+
 
 ## Criador para fazer um checkout dos hábitos do dia a dia.
 
